@@ -1,0 +1,13 @@
+{
+  "network": "arbitrum-sepolia",
+  "deployer_address": "0x98296cE2f66e03D0802365A08170c7b203A2b17f",
+  "cache_manager_address": "",
+  "token0_address": "0xef7ebfff2971154c9c7cedacd91c588fcd06d16c",
+  "token0_tx": "0x60cebe0cc7439485ff76cb400b22f27d82363aab3da65904fcf064f5068858b3",
+  "token1_address": "0xdd3b8750de129aa601a5a8cb0b08b39d7c12970f",
+  "token1_tx": "0xd1694f32fe0eb6d712c85f4d8b10de847caaf217f4e4326355be619fb8af3250",
+  "uniswap_address": "0xc7d02f8631ecd01aabaf2be0ddefd3259221297d",
+  "uniswap_tx": "0xabb1ab607fdbb43295f114193cd5b4647a630ce1bc7c9de84da57c902e9281d0",
+  "rpc_url": "https://sepolia-rollup.arbitrum.io/rpc",
+  "deployment_time": "2025-08-21T05:48:44Z"
+}
